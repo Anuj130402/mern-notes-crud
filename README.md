@@ -2,7 +2,7 @@
 
 **Name:** Anuj Kandwal
 **Student ID:** 2026201048
-**GitHub Repo:** <YOUR_REPO_LINK>
+**GitHub Repo:** https://github.com/Anuj130402/mern-notes-crud
 
 A full-stack notes app: React + Vite frontend, Express + MongoDB backend.
 
